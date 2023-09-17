@@ -1,0 +1,7 @@
+<link rel="stylesheet" href="your_path_to_file/file_with_fonts.css" type="text/css">
+body {
+  font-family: 'Montserrat';
+  font-weight: 200;
+  font-style: light;
+  line-height: 1.5;
+}
